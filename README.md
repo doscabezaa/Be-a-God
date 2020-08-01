@@ -1,11 +1,4 @@
-# BeaGod
-Se un dios, es un simulador de vida, en el cual tomas la posición de dios.
-El juego se divide en fases.
-1- Creación del universo
-2- Elección de un planeta
-3- Preparación del planeta para la vida humana.
-4- Creación del humano.
-Las primeras fases son cortas
-5- Toma tu lugar en las alturas y gobierna a tu creación.
-
-tendrás que lidiar con las diferentes necesidades a tu
+# Being a god
+Being a god is a life's simulator, in which you take the position of god.
+being a god is a video game project that mixes two great theories and combines them into one for a better understanding of both.
+the game begins exactly after the extinction of the great dinosaurs after the impact of a meteorite on earth.
