@@ -1,2 +1,1 @@
-# Be a God.
-## Be a God es un videojuego de rol en 3D en el cual usted toma la posición como dios ante su creación.
+# Be a god. It is a 3D role-playing video game in which you take the position as god before your creation.
